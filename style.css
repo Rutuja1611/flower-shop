@@ -1,0 +1,31 @@
+.home{
+    background-image: url("https://cdn.shopify.com/s/files/1/0103/5793/2089/files/banner-4.png?v=1615367232");
+    background-size: cover;
+    height: 110vh;
+}
+.mybg{
+    background-color: white;
+}
+.img-md{
+    height: 4rem;
+    width: 4rem; 
+}
+.card{
+    padding: 2rem;
+    height: 15rem;
+}
+.img-md1{
+    height: 300px;
+    width: 400px;
+   padding: 1rem;
+  
+}
+.card-md{
+   display: flex;
+   align-items: center;
+   transition: width 2s, height 4s;
+ 
+}
+.main{
+    background-image: url("https://img.freepik.com/premium-photo/mother-s-day-design-concept-background-with-pink-rose-flower-pink-table-background-background_315337-7019.jpg?w=996");
+}
