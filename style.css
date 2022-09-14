@@ -1,8 +1,4 @@
-.home{
-    background-image: url("https://cdn.shopify.com/s/files/1/0103/5793/2089/files/banner-4.png?v=1615367232");
-    background-size: cover;
-    height: 110vh;
-}
+
 .mybg{
     background-color: white;
 }
@@ -23,9 +19,29 @@
 .card-md{
    display: flex;
    align-items: center;
-   transition: width 2s, height 4s;
- 
+  
 }
 .main{
     background-image: url("https://img.freepik.com/premium-photo/mother-s-day-design-concept-background-with-pink-rose-flower-pink-table-background-background_315337-7019.jpg?w=996");
+    background-size: cover;
+    height: 100vh;
+}
+.img-md2{
+    height: 15rem;
+    width: 100%;
+   margin-top: 0.8rem;
+}
+.mybg1{
+    background-color: rgba(0, 0, 0, 0.726);
+}
+
+.hero_div{
+    background-image: url("https://cdn.shopify.com/s/files/1/0103/5793/2089/files/banner-4.png?v=1615367232");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5rem;
 }
